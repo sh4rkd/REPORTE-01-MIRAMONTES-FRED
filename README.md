@@ -1,2 +1,2 @@
 # REPORTE-01-MIRAMONTES-FRED
-Curso de DataScience por emtech/santander
+Curso de Data Science por emtech/santander
